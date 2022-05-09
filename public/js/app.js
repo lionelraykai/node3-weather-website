@@ -1,4 +1,4 @@
-console.log('this is very difficult for me to understand')
+
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
