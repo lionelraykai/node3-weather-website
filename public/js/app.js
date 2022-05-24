@@ -1,5 +1,3 @@
-
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const massageOne = document.querySelector('#massage-1')
